@@ -1,3 +1,11 @@
+stuff.txt
+.idea/
+*data/
+
+# Config with tokens etc
+config/
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
